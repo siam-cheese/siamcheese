@@ -4,4 +4,4 @@ hehehe
 
 More organized text
 
-![AAAAAAAAAAAAAAAAAAA](assets/celeste.jpg)
+![AAAAAAAAAAAAAAAAAAA](assets/IMG_8199.jpeg)
